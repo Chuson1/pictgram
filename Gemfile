@@ -75,3 +75,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'jquery-rails'
 # Add to gem 2019/12/15
 gem 'bcrypt'
+gem 'carrierwave'
